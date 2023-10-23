@@ -1,0 +1,19 @@
+<resources>
+
+    <!-- Colores -->
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!-- Estilo de la aplicación -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Color primario para la barra de acción y la barra de estado -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <!-- Color de la barra de acción -->
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <!-- Color de fondo de la barra de acción -->
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <!-- Otros estilos -->
+</resources>
